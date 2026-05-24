@@ -1,0 +1,6 @@
+{
+  "name": "CloneShield",
+  "description": "Securely track, manage, and protect your multiple cloned login accounts from bans using AI analytics and safety guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
